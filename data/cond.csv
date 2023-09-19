@@ -1,0 +1,10 @@
+,Umuwell,infected,Treatment,Desc
+N701_S508,tube2,FALSE,none,Mock
+N702_S508,tube3,FALSE,none,Mock
+N703_S508,tube1,FALSE,none,Mock
+N704_S508,tube5,TRUE,none,Infected
+N705_S508,tube6,TRUE,none,Infected
+N706_S508,tube7,TRUE,beta03,Infected+0.3nM betamethasone
+N707_S508,tube8,TRUE,beta03,Infected+0.3nM betamethasone
+N708_S508,tube9,TRUE,beta03,Infected+0.3nM betamethasone
+N709_S508,tube4,TRUE,none,Infected
